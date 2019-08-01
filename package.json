@@ -1,0 +1,23 @@
+{
+  "name": "nodeProject",
+  "version": "1.0.0",
+  "description": "FirstProject in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GopiKrishna10/nodeProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GopiKrishna10/nodeProject/issues"
+  },
+  "homepage": "https://github.com/GopiKrishna10/nodeProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
