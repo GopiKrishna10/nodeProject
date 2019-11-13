@@ -13,7 +13,7 @@ var storage = multer.diskStorage({
     }
 });
 // Create an upload instance and receive a single file
-var uplaod = multer({storage:storage}).single('file');
+var upload = multer({storage:storage}).single('file');
 
 // Set up the post route to uplaod the file
 
